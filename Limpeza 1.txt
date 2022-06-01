@@ -1,0 +1,7 @@
+cd\
+c:
+DEL  /f /s c:\*.log
+
+del /f /s c:\*.tmp
+
+DEL  /f /s c:\*.old

@@ -1,0 +1,17 @@
+echo Limpando Temporarios...
+
+echo.
+echo.
+echo.
+
+erase "c:\temp\*.*" /q /a /s
+echo.
+echo.
+echo.
+
+erase "c:\windows\temp\*.*" /q /a /s
+echo.
+echo.
+echo.
+
+del *.tmp /S /F
